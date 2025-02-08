@@ -16,3 +16,5 @@ try {
     display.value='Error'
 }
 }
+
+// thnx for onclick and js
